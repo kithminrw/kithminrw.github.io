@@ -476,17 +476,18 @@
 
 .ai-ul {
   list-style-type: none;
-  margin-left: 2.5em;
+  margin-left: 2.14285714em;
   padding-left: 0;
 }
 .ai-ul > li {
     position: relative;
 }
 .ai-li {
-  left: -2em;
+  top: .14285714em;
+  left: -2.14285714em;
   position: absolute;
   text-align: center;
-  width: 2em;
+  width: 2.14285714em;
   line-height: inherit;
 }
 
